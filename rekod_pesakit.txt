@@ -1,0 +1,23 @@
+1. Nama: Ahmad Ammar
+   Berat: 45.0 kg 
+   Tinggi: 1.70 m
+   BMI: 15.57 
+   Status: Kekurangan Berat Badan 
+
+2. Nama: Siti Aishah
+   Berat: 55.0 kg 
+   Tinggi: 1.60 m
+   BMI: 21.48 
+   Status: Normal
+
+3. Nama: Kumar a/l Muthu
+   Berat: 82.0 kg 
+   Tinggi: 1.75 m
+   BMI: 26.78 
+   Status: Lebih Berat Badan 
+
+4. Nama: Jessica Tan
+   Berat: 95.0 kg 
+   Tinggi: 1.60 m
+   BMI: 37.11 
+   Status: Obesiti
